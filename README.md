@@ -1,7 +1,17 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+# Welcome to my Computer Vision App!
 
-This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
+This is a repository of one of my computer vision applications. This one in particular detects if an image is of an anaconda, chimpanzee, or a bird. 
 
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
 
-The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
+## Training Stats
+
+Total time: 00:11 
+|  epoch | train_loss | valid_loss | error_rate | time 
+| :----: | :--------: | :--------: | :--------: | :--: 
+| 0 	 | 0.997614   | 0.181142   | 0.026667   | 00:04
+| 1      | 0.539029   | 0.018694   | 0.000000   | 00:02
+| 2 	 | 0.365405   | 0.015679   | 0.000000 	| 00:02
+| 3      | 0.268477    |0.016139   | 0.000000 	| 00:02
+
+
+
