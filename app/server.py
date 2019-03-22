@@ -12,7 +12,7 @@ from fastai.vision import *
 export_file_url = 'https://drive.google.com/uc?export=download&id=1Yp66sv0ysA3VSe-9sDemJI-jKjkMweUK'  
 export_file_name = 'export.pkl'
 
-classes = ['birds', 'anacondas', 'chimps']
+classes = ['bird', 'anaconda', 'chimp']
 path = Path(__file__).parent
 
 app = Starlette()
