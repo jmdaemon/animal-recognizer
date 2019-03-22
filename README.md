@@ -17,4 +17,5 @@ Total time: 00:11
 This application was built on the fast.ai python framework, as well as the pytorch framework. You can see them in more detail in the following links:
 
 [PyTorch](https://pytorch.org/ "PyTorch's Homepage")
+
 [fast.ai](https://course.fast.ai "Fast.ai Homepage")
